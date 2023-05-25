@@ -9,7 +9,7 @@
           İletişim
 Eğer benimle iletişime geçmek, projelerim hakkında daha fazla bilgi almak veya işbirliği yapmak isterseniz, aşağıdaki iletişim bilgilerinden bana ulaşabilirsiniz:
 
-E-posta: [email protected] (mehmettbasgoze@gmail.com)
+E-posta: mehmettbasgoze@gmail.com
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetbasgoze/)
 
