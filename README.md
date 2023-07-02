@@ -1,6 +1,6 @@
 👍 Merhaba ben Mehmet.
 
-💻 Fırat Üniversitesi Yazılım Mühendisliği 2.sınıf öğrencisiyim.
+💻 Fırat Üniversitesi Yazılım Mühendisliği 3.sınıf öğrencisiyim.
 
 📌Yazılım mühendisliği öğrencisi olarak, farklı alanlara merak duyuyor ve ilgi gösteriyorum. En büyük ilgi alanım ise yapay zeka ve makine öğrenmesidir. Bu konuda hem teorik hem de pratik deneyimler kazanmaya çalışıyorum.
 
